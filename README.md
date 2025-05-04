@@ -1,0 +1,1 @@
+This is a record of results observed from a self-generated entropy system cross-referenced against tidal and lunar phase information. Collapse symmetry appears to invert with gravitational phase. All data, code, and methods are openly available for replication and independent verification.
