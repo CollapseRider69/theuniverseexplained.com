@@ -27,8 +27,11 @@ This folder contains all scripts, instructions, and tools required to replicate 
 - `lunar_lag_shift_tool.py`  
   Applies daily lunar lag correction and outputs lag-adjusted tide.csv.
 
+- `lunar_phase_sweep_alignment.py`
+  Aligns to lunar-midnight for phase sweep analysis.
+  
 ### Analysis & Visualization
-- `gpct_analysis_FINAL.py`  
+- `gpct_analysis.py`  
   Computes r, p, and z correlation statistics from FlowShamBo and gravitational phase data.
 
 - `gpct_graph_analysis.py`  
