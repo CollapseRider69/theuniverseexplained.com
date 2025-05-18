@@ -6,7 +6,7 @@ Within the REPLICATION folder, create a Python virtual environment and install t
 
     python3 -m venv venv
     source venv/bin/activate
-    pip install pandas ephem scipy tzlocal matplotlib requests seaborn
+    pip install pandas ephem scipy tzlocal matplotlib requests seaborn ntplib
 
 Step 2: Confirm system time
 Ensure your system clock is set to local time and is automatically synced to a time server.
