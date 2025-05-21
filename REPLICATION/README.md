@@ -5,17 +5,8 @@ This folder contains all scripts, instructions, and tools required to replicate 
 ## Contents
 
 ### Experiment Code
-- `FlowShamBo_REALTIME_RUNNER_V2.py`  
-  Main testbed. A perceptual-architecture entropy system designed to detect gravitational modulation of collapse symmetry.
-  
-- `FlowShamBo_dual_launcher.py`  
-  Launches FlowShamBo in real-time alongside its external logger.
-
-- `FlowShamBo_external_realtime_logger.py`  
-  Logs FlowShamBo outcomes with real-time timestamps for later correlation.
-
-- `coinflip_entropy_test.py`  
-  A control experiment using a time-seeded coin flip to compare against the FlowShamBo architecture.
+- `FlowShamBo_ENTROPY_TEST.py`  
+  Main testbed. A time-seeded, entropy game-of-chance.
 
 ### Gravitational & Lunar Tools
 - `moon_altitude.py`  
