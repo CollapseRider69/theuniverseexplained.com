@@ -6,7 +6,8 @@ An original theory proposing that gravitational phase slope modulates the polari
 
 An addendum to the gPCT paper introduces the **White Equation**, a recursive derivative expression that not only models collapse symmetry resolution but *fails at the exact timing threshold where collapse does*. The equation converges to 1/2π and defines a natural collapse rate limit (~10 Hz).
 
-📄 [Download the addendum (PDF)](./gPCT_addendum.pdf)
+[Download the addendum (PDF)](./gPCT_addendum.pdf)
+Full paper and theory homepage: [https://theuniverseexplained.com](https://theuniverseexplained.com)
 
 ## Contents
 
