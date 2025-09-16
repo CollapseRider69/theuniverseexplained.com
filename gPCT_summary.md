@@ -31,31 +31,6 @@ Collapse polarity flips at slope zero-crossings, and leans with gravitational rh
   \]
   It converges to a harmonic attractor at $1/2\pi$ seconds — corresponding to a nominal collapse resolution frequency of $2\pi$ Hz.
 
----
-
-## Empirical Evidence
-
-- 10-million-round FlowShamBo experiment over 12 days showed a clean sinusoidal Z-flip across gravitational phase offsets.
-- Segmenting by gravitational slope (ascent vs descent) yielded mirrored correlation and massive Z-flip cancellation — with total $r pprox 0$.
-- A timestamp-aligned phase sweep confirmed that collapse modulation follows gravitational slope, not altitude.
-- Collapse resolution only remains stable below ~10 Hz. Above this limit, recursive modulation becomes chaotic.
-- The White Equation consistently converges to $2\pi$ Hz as the harmonic null of symmetry resolution — and collapses to zero output when fed a wave at exactly $1/2\pi$ seconds per cycle.
-
----
-
-## Implication for Black Holes
-
-gPCT reframes the black hole information paradox:  
-> Information is not lost — it never happens.
-
-Inside an event horizon, gravitational slope collapses inward or becomes undefined. Collapse symmetry cannot break. Decoherence halts. Classical outcomes are never written.
-
----
-
-## Replication Tools Available
-
-- Replication guide on GitHub  
-- Full paper at: [https://theuniverseexplained.com](https://theuniverseexplained.com)
 
 ---
 
